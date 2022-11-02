@@ -9,7 +9,7 @@ body {
     border: solid 2px #000;
 
     background-image: url(https://ak.picdn.net/offset/photos/6001e55b6f52af4409f92305/large_w/offset_1078195.jpg);
-    background-size: auto;
+    background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
 }
