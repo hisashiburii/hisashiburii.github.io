@@ -4,12 +4,13 @@ body {
 
 .bg-test {
     width: 100%;
-    min-height: 100%;
-    margin: auto;
-    border: solid 2px rgb(255, 255, 255);
+    height: 100%;
 
     background-image: url(https://ak.picdn.net/offset/photos/6001e55b6f52af4409f92305/large_w/offset_1078195.jpg);
-    background-size: cover;
-    background-position: center;
+    background-size: 100% 100%;
     background-repeat: no-repeat;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
 }
