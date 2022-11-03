@@ -3,10 +3,10 @@ body {
 }
 
 #bg-test {
-    width: 80%;
-    min-height: 40em;
+    width: 100%;
+    min-height: 100%;
     margin: auto;
-    border: solid 2px #000;
+    border: solid 2px rgb(255, 255, 255);
 
     background-image: url(https://ak.picdn.net/offset/photos/6001e55b6f52af4409f92305/large_w/offset_1078195.jpg);
     background-size: cover;
